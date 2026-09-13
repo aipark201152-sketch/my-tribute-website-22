@@ -42,7 +42,7 @@ footer {
   height:50px;
 }
 
-#blockquote {
+blockquote {
   border-left: 4px solid #ADD8E6;
   background: #f0f4f8;
 }
